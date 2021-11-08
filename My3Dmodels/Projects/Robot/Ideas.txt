@@ -1,0 +1,2 @@
+-ADD Laser gun/Normal gun on top or side 
+-Add Mantis blade to front legs
